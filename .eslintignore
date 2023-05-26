@@ -1,0 +1,9 @@
+build
+node_modules
+amplify
+_amplify
+.idea
+.circleci
+public
+.serverless
+.webpack
